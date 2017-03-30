@@ -10,6 +10,7 @@
             <li>element-ui</li>
             <li>基于路由配置的导航菜单</li>
             <li>基于路由配置的面包屑</li>
+            <li>按路由异步加载</li>
         </ul>
     </div>
 </template>

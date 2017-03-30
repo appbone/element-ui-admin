@@ -14,6 +14,7 @@
 * element-ui
 * 基于路由配置的导航菜单
 * 基于路由配置的面包屑
+* 按路由异步加载
 
 ## 使用方法
 
@@ -44,4 +45,5 @@ element-ui-admin/
 
 ## 参考
 
+* [sls-admin](https://github.com/sailengsi/sls-admin)
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) 可以参考界面布局
