@@ -1,0 +1,10 @@
+/* 项目的公共样式 */
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: #f1f1f1;
+}
