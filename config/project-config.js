@@ -34,6 +34,7 @@ var config = {
     // 正式环境一般会发布到 CDN, 例如: //youcdn.com/dir/
     // 如果不发布到 CDN, 则保持跟 publicPath 一致即可
     cdnPath: '/',
+    // cdnPath: 'http://rawgit.com/appbone/element-ui-admin/master/dist/',
 
     // [devtool里的7种SourceMap模式是什么鬼](https://gold.xitu.io/post/58293502a0bb9f005767ba2f)
     // XXX 用了 cheap-module-source-map 模式后, 发现在 chrome 中无法查看变量的值了, 还是安静的使用 source-map 吧
