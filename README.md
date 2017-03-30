@@ -6,7 +6,7 @@
 
 ## 技术栈
 
-[功能演示]()
+[element-ui-admin 项目演示](http://rawgit.com/appbone/element-ui-admin/master/dist/index.html)
 
 * vue
 * vue-resource
